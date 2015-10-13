@@ -1,6 +1,6 @@
-# ELCImagePickerController
+# ELCImagePickerController with Photos Library and iCloud sync support
 
-*A clone of the UIImagePickerController using the Assets Library Framework allowing for multiple asset selection.*
+*A clone of the UIImagePickerController using the Photos Library and Assets Library Framework allowing for multiple asset selection.*
 
 ## Usage
 
